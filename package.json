@@ -1,0 +1,8 @@
+{
+  "name": "Smart-Contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/josedev03/Smart-Contracts.git",
+  "author": "josedev03 <joseing03@gmail.com>",
+  "license": "MIT"
+}
